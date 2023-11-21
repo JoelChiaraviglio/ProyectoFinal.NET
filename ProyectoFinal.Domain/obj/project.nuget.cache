@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Zn7Esz9g0yLsX8q1mC5XBq6aYEgo4xjBdS+YJZ/TsuOoYQDqjN3Du4WKHMGepeiNtXgXbzULiBLlTEu2Nqd0w==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Está ejecutando la operación \"restore\" con un origen \"HTTP\", \"http://remoto.cubits.ar:88/nuget\". El acceso que no sea HTTPS se quitará en una versión futura. Considere la posibilidad de migrar a un origen \"HTTPS\"."
+    }
+  ]
+}

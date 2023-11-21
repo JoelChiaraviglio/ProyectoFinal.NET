@@ -1,0 +1,12 @@
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\bin\Debug\net6.0\ProyectoFinal.Domain.deps.json
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\bin\Debug\net6.0\ProyectoFinal.Domain.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\bin\Debug\net6.0\ProyectoFinal.Domain.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.csproj.AssemblyReference.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.AssemblyInfoInputs.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.AssemblyInfo.cs
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.csproj.CoreCompileInputs.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\refint\ProyectoFinal.Domain.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ProyectoFinal.Domain.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Domain\obj\Debug\net6.0\ref\ProyectoFinal.Domain.dll

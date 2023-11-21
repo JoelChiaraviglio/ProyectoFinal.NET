@@ -1,0 +1,15 @@
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\bin\Debug\net6.0\ProyectoFinal.Application.deps.json
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\bin\Debug\net6.0\ProyectoFinal.Application.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\bin\Debug\net6.0\ProyectoFinal.Application.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\bin\Debug\net6.0\ProyectoFinal.Domain.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\bin\Debug\net6.0\ProyectoFinal.Domain.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.csproj.AssemblyReference.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.AssemblyInfoInputs.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.AssemblyInfo.cs
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.csproj.CoreCompileInputs.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.csproj.CopyComplete
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\refint\ProyectoFinal.Application.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ProyectoFinal.Application.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Application\obj\Debug\net6.0\ref\ProyectoFinal.Application.dll

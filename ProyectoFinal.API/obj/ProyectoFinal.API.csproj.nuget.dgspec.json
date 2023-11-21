@@ -1,0 +1,297 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.API\\ProyectoFinal.API.csproj": {}
+  },
+  "projects": {
+    "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.API\\ProyectoFinal.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.API\\ProyectoFinal.API.csproj",
+        "projectName": "ProyectoFinal.API",
+        "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.API\\ProyectoFinal.API.csproj",
+        "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
+          "http://remoto.cubits.ar:88/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj": {
+                "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj"
+              },
+              "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj": {
+                "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj",
+        "projectName": "ProyectoFinal.Application",
+        "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Application\\ProyectoFinal.Application.csproj",
+        "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://remoto.cubits.ar:88/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj": {
+                "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.8.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+        "projectName": "ProyectoFinal.Domain",
+        "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj",
+        "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://remoto.cubits.ar:88/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj",
+        "projectName": "ProyectoFinal.Infraestructure",
+        "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Infraestructure\\ProyectoFinal.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\joelc\\.nuget\\packages\\",
+        "outputPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\joelc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://remoto.cubits.ar:88/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj": {
+                "projectPath": "D:\\Users\\JOEL\\Downloads\\Cubit\\Curso de .Net\\Curso.net\\ProyectoFinal.API\\ProyectoFinal.Domain\\ProyectoFinal.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.24, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

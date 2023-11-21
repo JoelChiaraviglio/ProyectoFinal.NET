@@ -1,0 +1,15 @@
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\bin\Debug\net6.0\ProyectoFinal.Infraestructure.deps.json
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\bin\Debug\net6.0\ProyectoFinal.Infraestructure.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\bin\Debug\net6.0\ProyectoFinal.Infraestructure.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\bin\Debug\net6.0\ProyectoFinal.Domain.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\bin\Debug\net6.0\ProyectoFinal.Domain.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.csproj.AssemblyReference.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.AssemblyInfoInputs.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.AssemblyInfo.cs
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.csproj.CopyComplete
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\refint\ProyectoFinal.Infraestructure.dll
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ProyectoFinal.Infraestructure.pdb
+D:\Users\JOEL\Downloads\Cubit\Curso de .Net\Curso.net\ProyectoFinal.API\ProyectoFinal.Infraestructure\obj\Debug\net6.0\ref\ProyectoFinal.Infraestructure.dll
